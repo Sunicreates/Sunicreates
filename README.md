@@ -9,7 +9,7 @@
 
 Results-driven and passionate Full Stack Developer specializing in the **MERN stack** with a strong foundation in **AI & ML**. Proven ability to design, develop, and deploy scalable applications from concept to production. Experienced in backend reliability, API optimization, and real-time systems. Excited to apply my expertise in building **scalable, user-centric web solutions** to solve real-world problems.  
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/sunil-kumar-83a286317)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sunil-kumar-83a286317)
 [![Email Badge](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:sunilcodes2005@gmail.com)  
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://portfolio-livid-beta-14.vercel.app/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/Sunicreates)  
