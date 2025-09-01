@@ -84,4 +84,4 @@ BNM Institute of Technology, Bengaluru *(2023 – 2027)*
 
 ---
 
-✨ “I aim to develop scalable and robust solutions to complex problems. My strong commitment and determination make me a valuable asset to any team. I am adaptable, flexible, and always eager to embrace new challenges and emerging technologies.”
+✨ “I aim to develop scalable and robust solutions to complex problems. My strong commitment and determination makes me a valuable asset to any team. I am adaptable, flexible, and always eager to embrace new challenges and emerging technologies.”
