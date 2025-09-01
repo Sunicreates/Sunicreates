@@ -84,17 +84,4 @@ BNM Institute of Technology, Bengaluru *(2023 – 2027)*
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sunicreates&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sunicreates&theme=tokyonight" alt="GitHub Streak" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunicreates&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
-
----
-
 ✨ “I aim to develop scalable and robust solutions to complex problems. My strong commitment and determination make me a valuable asset to any team. I am adaptable, flexible, and always eager to embrace new challenges and emerging technologies.”
